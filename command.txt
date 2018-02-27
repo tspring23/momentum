@@ -1,0 +1,15 @@
+1. $ git add
+2. $ git commit -m 'Matrix calculations(1/1 - 1/10)' -- n*n.py
+ Committer: xxxx
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+
+3. $ git remote add origin https://github.com/tspring23/momentum.git
+4. $ git push -u origin master
+ Username for 'https://github.com': tspring23
+ Password for 'https://tspring23@github.com': 
+
